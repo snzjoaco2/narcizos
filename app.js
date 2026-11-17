@@ -167,8 +167,14 @@ function renderMenu(products) {
       .sort((first, second) => second.intersectionRatio - first.intersectionRatio)[0];
     if (!current) return;
     observedSections.forEach(({ section, link }) => {
-      if (section === current.target) link.setAttribute("aria-current", "location");
-      else link.removeAttribute("aria-current");
+      if (section === current.target) {
+        if (!link.hasAttribute("aria-current")) {
+          link.setAttribute("aria-current", "location");
+          link.scrollIntoView({ block: "nearest", inline: "nearest", behavior: "smooth" });
+        }
+      } else {
+        link.removeAttribute("aria-current");
+      }
     });
   }, { rootMargin: "-25% 0px -65% 0px", threshold: [0, 0.2, 0.5, 1] });
 

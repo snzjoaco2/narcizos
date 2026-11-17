@@ -160,7 +160,11 @@ a {
   transition: background-color 160ms ease, color 160ms ease;
 }
 
-.category-nav a:hover,
+.category-nav a:hover {
+  background: #e8ddcf;
+  color: var(--brown-dark);
+}
+
 .category-nav a[aria-current="location"] {
   background: var(--brown-dark);
   color: #fffaf5;
