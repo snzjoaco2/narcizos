@@ -1,0 +1,49 @@
+categoria,nombre,descripcion,precio,mas_pedido,disponible,orden
+Café caliente,Espresso,Intenso y aromático.,4000,NO,SI,1
+Café caliente,Doble espresso,Doble extracción.,4500,NO,SI,2
+Café caliente,Americano,Espresso suavizado con agua.,4000,NO,SI,3
+Café caliente,Latte,Espresso con leche vaporizada.,5500,NO,SI,4
+Café caliente,Cappuccino,"Espresso, espuma de leche, canela o cacao.",6500,NO,SI,5
+Café caliente,Flat white,Más café menos espuma.,4500,NO,SI,6
+Café caliente,Submarino,Leche y chocolate en barra.,6500,NO,SI,7
+Café caliente,Mocha,"Chocolate en barra, espresso y leche vaporizada.",7000,SI,SI,8
+Café frío,Iced latte,Espresso leche fría y hielo.,6000,NO,SI,1
+Café frío,Iced vanilla latte,"Espresso, leche fría, hielo y vainilla.",6500,NO,SI,2
+Café frío,Iced caramel latte,"Espresso, leche fría, hielo y caramelo.",6500,NO,SI,3
+Café frío,Coffee tonic,Espresso tónica y cítricos.,5500,NO,SI,4
+Café frío,Mocha frío,"Espresso, leche fría, chocolate y hielo.",4000,NO,SI,5
+Signatures,Oreo avalanche,"Frappé de Oreo con crema batida y trozos de Oreo.",8500,NO,SI,1
+Signatures,Narcizo tonic,"Espresso, tónica, naranja y menta.",8500,NO,SI,2
+Signatures,Banana fresh,"Frappé de banana con crema batida y dulce de leche.",8500,NO,SI,3
+Extras,Leche vegetal,,1000,NO,SI,1
+Extras,Shot de espresso,,1000,NO,SI,2
+Extras,Syrup de vainilla o caramelo,,1000,NO,SI,3
+Extras,Crema batida,,1000,NO,SI,4
+Brunch,Brunch Narcizo,"Café a elección, jugo natural, tostadas, huevos revueltos, palta, queso, jamón y fruta fresca de estación.",15000,SI,SI,1
+Brunch,Avocado toast,"Tostada, palta, huevo poché o revuelto y queso crema.",12000,NO,SI,2
+Brunch,Croissant premium,"Relleno de jamón crudo, queso, rúcula y tomates secos.",10500,NO,SI,3
+Brunch,Tostados,Pan de miga jamón y queso.,12000,NO,SI,4
+Brunch,Tostadas de campo,"Pan de campo tostado, untables: queso crema, mermelada y manteca.",6000,NO,SI,5
+Agregá a tu brunch,Extra huevo poché,,1500,NO,SI,1
+Agregá a tu brunch,Palta extra,,2000,NO,SI,2
+Agregá a tu brunch,Porción de frutas,,2500,NO,SI,3
+Agregá a tu brunch,Tostadas extra,,1500,NO,SI,4
+Agregá a tu brunch,Untables extra,,1500,NO,SI,5
+Sandwiches,Clásico de la casa,"Paleta, queso, tomate y lechuga.",7500,NO,SI,1
+Sandwiches,El primaveral,"Zanahoria rallada, lechuga, tomate y huevo duro.",7000,NO,SI,2
+Sandwiches,El especial,"Jamón crudo, queso, rúcula y huevo duro.",8000,NO,SI,3
+Waffles,Waffle helado,Waffle acompañado de helado.,9500,SI,SI,1
+Waffles,Waffle frutos rojos,"Waffle, frutos rojos, mermelada y crema.",9000,NO,SI,2
+Waffles,Waffle dulce de leche,"Waffle, dulce de leche y crema.",8000,NO,SI,3
+Smoothies,Berry bloom,"Frutilla natural, leche, hielo, crema batida y topping de frutilla.",7500,SI,SI,1
+Smoothies,Honey banana,"Banana natural, leche, hielo, crema batida y topping de dulce de leche.",7000,NO,SI,2
+Smoothies,Peach glow,"Durazno natural, leche, hielo, crema batida y topping de caramelo.",7000,NO,SI,3
+Batidos,Frutilla,Frutilla natural leche y hielo.,6200,NO,SI,1
+Batidos,Banana,Banana natural leche y hielo.,5800,NO,SI,2
+Batidos,Durazno,Durazno natural leche y hielo.,6000,NO,SI,3
+Lemonades,Pink lemonade,Limón frutos rojos y un toque de menta.,5500,SI,SI,1
+Lemonades,Mint lemonade,Limón hielo jengibre y una pizca de menta.,5000,NO,SI,2
+Fresh Juices,Citrus orange,Naranja exprimida.,5000,NO,SI,1
+Fresh Juices,Citrus rose,Naranja y frutilla.,5500,NO,SI,2
+Fresh Juices,Berry citrus,Naranja y frutos rojos.,5500,SI,SI,3
+Fresh Juices,Banana citrus,Naranja y banana.,5200,NO,SI,4
